@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Branded Suitcase, Backpacks and Duffles_f5893e</name>
+   <tag></tag>
+   <elementGuidId>a0b974e7-003d-4dbd-a768-6afd4a00a9d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.DealContent-module__truncate_sWbxETx42ZPStTc9jwySW</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grid-main-container']/div[3]/div/div/div/div/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a46980ec-5e2c-4e2c-9b08-9f60dd88e2f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DealContent-module__truncate_sWbxETx42ZPStTc9jwySW</value>
+      <webElementGuid>055aa3b4-cdf4-4766-926f-901351f952cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Branded Suitcase, Backpacks and Duffles - American Tourister, Safari, Skybags, etc</value>
+      <webElementGuid>0af1e63e-dbd3-400e-8ffe-d5d7ee85841a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid-main-container&quot;)/div[@class=&quot;a-row Grid-module__gridSection_1SEJTeTsU88s6aVeuuekAp&quot;]/div[@class=&quot;Grid-module__gridDisplayGrid_2X7cDTY7pjoTwwvSRQbt9Y&quot;]/div[@class=&quot;DealGridItem-module__dealItemDisplayGrid_e7RQVFWSOrwXBX4i24Tqg DealGridItem-module__withBorders_2jNNLI6U1oDls7Ten3Dttl DealGridItem-module__withoutActionButton_2OI8DAanWNRCagYDL2iIqN&quot;]/div[@class=&quot;DealGridItem-module__dealItemContent_1vFddcq1F8pUxM8dd9FW32&quot;]/div[@class=&quot;DealCard-module__card_1u9yKYV4EIA-fL4ibeMVIU DealCard-module__cardWithoutActionButton_1K_FldevdoXxE8uy5pzBmr&quot;]/div[@class=&quot;DealCard-module__contentWithPadding_1mEcEYf1DvbvZJ9zcQCxtw&quot;]/a[@class=&quot;a-link-normal DealLink-module__dealLink_3v4tPYOP4qJj9bdiy0xAT a-color-base a-text-normal&quot;]/div[@class=&quot;DealContent-module__truncate_sWbxETx42ZPStTc9jwySW&quot;]</value>
+      <webElementGuid>f904cd1d-9d12-4bb0-a2f1-62debe0a51ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grid-main-container']/div[3]/div/div/div/div/div/a/div</value>
+      <webElementGuid>01236090-3387-4376-ad16-9a49cd3772e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deal of the Day'])[3]/following::div[1]</value>
+      <webElementGuid>8089ee83-9228-4e93-b8da-b047c5de1249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Up to 73% off'])[2]/following::div[1]</value>
+      <webElementGuid>9e5709a1-2a4f-4d84-b6e4-4dab21298af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Up to 73% off'])[3]/preceding::div[3]</value>
+      <webElementGuid>19612f40-5f69-415d-a94b-52b828e44887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deal of the Day'])[4]/preceding::div[4]</value>
+      <webElementGuid>77a5b853-a966-4d41-99c7-fc16bb6c3e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Branded Suitcase, Backpacks and Duffles - American Tourister, Safari, Skybags, etc']/parent::*</value>
+      <webElementGuid>ed9e63d6-fa16-4b0e-9c4d-447a6b12363a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/a/div</value>
+      <webElementGuid>c1678f4c-e2bd-4963-8977-e2f42738f629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Branded Suitcase, Backpacks and Duffles - American Tourister, Safari, Skybags, etc' or . = 'Branded Suitcase, Backpacks and Duffles - American Tourister, Safari, Skybags, etc')]</value>
+      <webElementGuid>65b46751-7558-4c05-82f1-b031bb65763c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

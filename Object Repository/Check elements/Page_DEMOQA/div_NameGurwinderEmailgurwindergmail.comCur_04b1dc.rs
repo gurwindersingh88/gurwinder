@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NameGurwinderEmailgurwindergmail.comCur_04b1dc</name>
+   <tag></tag>
+   <elementGuidId>a2806d1d-a22c-43ee-a109-f85b3863d41b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='output']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.border.col-md-12.col-sm-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6afb94c2-1952-42f2-bd32-1bf5cf0d5ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border col-md-12 col-sm-12</value>
+      <webElementGuid>be727fb3-445e-4317-b7af-69ffdd026352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name:GurwinderEmail:gurwinder@gmail.comCurrent Address :chandigarh Permananet Address :punjab</value>
+      <webElementGuid>43be07f9-0bd2-42b2-b867-d013895f93f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;output&quot;)/div[@class=&quot;border col-md-12 col-sm-12&quot;]</value>
+      <webElementGuid>a260a053-f8dc-421e-a85a-f7ecb35e2aa2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='output']/div</value>
+      <webElementGuid>0a8cb79c-a77e-4ec3-bafb-b810ec4f9520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::div[2]</value>
+      <webElementGuid>6c3dca3c-8ab5-4960-b9ea-d4e20f217abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Address'])[1]/following::div[5]</value>
+      <webElementGuid>175a6ae2-b4c8-4b93-bf85-18953b796ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::div[7]</value>
+      <webElementGuid>74b4d063-2e9b-4ffd-ba85-4ea98163887b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'output', '&quot;', ')/div[@class=', '&quot;', 'border col-md-12 col-sm-12', '&quot;', ']')])[1]/preceding::div[7]</value>
+      <webElementGuid>0f485619-f34b-46cd-87b3-85725f65cddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[6]/div</value>
+      <webElementGuid>9e8f4b81-909f-45db-929b-626cc6f6f6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Name:GurwinderEmail:gurwinder@gmail.comCurrent Address :chandigarh Permananet Address :punjab' or . = 'Name:GurwinderEmail:gurwinder@gmail.comCurrent Address :chandigarh Permananet Address :punjab')]</value>
+      <webElementGuid>3f1da448-74b3-4cb8-a69f-21d0337b4580</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
